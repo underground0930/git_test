@@ -10,4 +10,5 @@
 - 佐藤
 - hugahuga
 - hoge
+- rebase
 - merge派
