@@ -11,3 +11,4 @@
 - hugahuga
 - hoge
 - rebase
+- merge派
